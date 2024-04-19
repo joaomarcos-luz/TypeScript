@@ -1,0 +1,1 @@
+const lista: [string, number, boolean] = ["Joao", 27, true]
